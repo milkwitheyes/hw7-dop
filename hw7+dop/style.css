@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    margin-left: 600px;
+    }
+h1{
+text-align: center;
+font-size: 40px;
+color: yellow;
+
+}
+
+
+button {
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 600px;
+  }
+  
+  button:hover {
+    opacity: 1}
+  h2{
+text-align: center;
+color: blueviolet;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
